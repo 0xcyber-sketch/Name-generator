@@ -1,0 +1,88 @@
+access control
+anti-virus (anti-malware)
+antivirus software 
+APT (Advanced Persistent Threat
+asset
+authentication 
+authorization 
+backing up
+BCP (Business Continuity Planning) 
+behavior monitoring
+blacklist 
+block cipher 
+botnet 
+bug 
+BYOD (Bring Your Own Device
+ciphertext 
+clickjacking 
+cloud computing
+CND (Computer Network Defense)
+cracker 
+hacker
+critical infrastructure
+CVE (Common Vulnerabilities and Exposures) 
+cryptography 
+cyberattack 
+cyber ecosystem
+cyberespionage 
+cybersecurity 
+cyber teams
+malware 
+API
+ATP
+Advanced Threat Protection
+AV
+Anti-Virus
+AWS
+Application Control
+Azure
+C2
+CA
+CASB
+Cloud Access Security Broker
+CEF
+Common Event Format
+CI/CD
+CSPM
+CSWG
+Cloud Security Web Gateway
+BYOD
+Bring your own device
+Bandwidth shaping
+Browser Isolation
+EDR
+EPP
+DAST
+Dynamic Application Security Testing, demonstrates the attack and provides a proof of exploit for every risk uncovered
+DC
+Domain Controller or Data Center
+DLP
+DNS
+Domain Name Service
+Data Classification
+DoH
+GCP
+GRC
+HIDS
+
+Host IDS Intrusion Detection System Governance
+IAST
+IAG
+Identity Access Governance
+IAM
+Identity and Access Management
+ICS
+Industrial Control Systems
+IDS
+Intrusion Detection System
+IGA
+Identity Governance and Administration
+IGW
+Integrnet Gateway
+IIoT
+IPS
+IPSEC
+IaaS
+IaaS
+IoMT
+IoT
