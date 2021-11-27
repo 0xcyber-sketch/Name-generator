@@ -17,8 +17,20 @@ for file in os.listdir(directory):
     else:
         continue    
 
+amount = str(input())
+if amount.isdigit():
+    amount = int(amount)
+    if (amount < 2):
+        print("[-] Input can't be less than 2")
+    elif (amount > len(list)):
+        print("[-] Input can't be greater than the length of the list of words")
+        print("List lenght: " + str(len(list)))
+    else:
+        name = ''
+        for x in range(0, amount):
+            name = name + '' + list[r(0, len(list)-1)] + " " 
+        print(name)
 
+else:
+    print("Input is not a digit")
 
-name = '' + list[r(0, len(list)-1)] + " " + list[r(0, len(list)-1)]
-
-print(name)
